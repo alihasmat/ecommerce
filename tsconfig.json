@@ -26,7 +26,9 @@
     "components/HeroBanner.jsx",
     "components/FooterBanner.jsx",
     "components/Footer.jsx",
-    "components/Cart.jsx"
+    "components/Cart.jsx",
+    "pages/_app.tsx",
+    "pages/index.jsx"
   ],
   "exclude": ["node_modules"]
 }
